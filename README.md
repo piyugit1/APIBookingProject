@@ -1,4 +1,4 @@
-BookingAPI restful-booker
+BookingAPI restful-booker > Collection on Postman > Exported to Run on Newman from cmd > TML dashboard
 Will need authorization code or token for PATCH and Delete
 
 GET// curl -i https://restful-booker.herokuapp.com/booking
