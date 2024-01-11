@@ -1,4 +1,5 @@
-BookingAPI restful-booker > Collection on Postman > Exported to Run on Newman from cmd > HTML dashboard
+API Testing in Postman> Newman
+restful-booker > Collection on Postman > Exported to Run on Newman from cmd > HTML dashboard
 Will need authorization code or token for PATCH and Delete
 
 GET// curl -i https://restful-booker.herokuapp.com/booking
